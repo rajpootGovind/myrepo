@@ -1,0 +1,2 @@
+let myName = "Govind"
+console.log(myName)
