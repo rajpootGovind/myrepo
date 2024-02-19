@@ -16,3 +16,5 @@ new user = new ({
     name : "Govind",
     age: 19
 })
+
+console.log("betaV1.0 release")
