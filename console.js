@@ -11,3 +11,8 @@ let res = function add (num1, num2){
 }
 add(4,8)
 console.log(res);
+
+new user = new ({
+    name : "Govind",
+    age: 19
+})
