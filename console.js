@@ -5,3 +5,9 @@ let myAge = 19
 cosole.log(myAge)
 
 console.log("ok")
+
+let res = function add (num1, num2){
+    return a+b
+}
+add(4,8)
+console.log(res);
