@@ -18,3 +18,4 @@ new user = new ({
 })
 
 console.log("betaV1.0 release")
+console.log("git commit --amend")
